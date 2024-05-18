@@ -1,4 +1,4 @@
-import { data } from './data'
+import { data } from './data.js'
 
 console.log(data)
 console.log(data.name)
