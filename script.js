@@ -9,5 +9,6 @@ const btn = document.getElementById('btn')
 const content = document.getElementById('content')
 
 btn.onclick = () => {
-    content.textContent = data.name
+    content.textContent = `hello my name is ${data.name}, i am ${data.age}
+    and i am from ${data.nationality}`
 }
