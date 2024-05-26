@@ -21,6 +21,14 @@ p{
 .bloque2 p:first-child{
     font-size: 30px;
 }
+.bloque3{
+    width: 350px;
+    height: 350px;
+    background: red;
+}
+.bloque3 p:first-child{
+    font-size: 30px;
+}
 /* 
 me gusta 30 pixeles en este celular
 
