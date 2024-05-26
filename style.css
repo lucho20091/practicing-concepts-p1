@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    color: white;
 }
 .bloque{
     width: 360px;
@@ -34,6 +35,21 @@ p{
     height: 20px;
     border-radius: 50%;
     background: blue;
+}
+.circle2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: blue;
+}
+.tweelve{
+    font-size: 12px;
+}
+.fourteen{
+    font-size: 14px;
+}
+.sixteen{
+    font-size: 16px;
 }
 /* 
 me gusta 30 pixeles en este celular
