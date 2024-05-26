@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+.bloque{
+    width: 500px;
+    height: 200px;
+    background: red;
+}
+.bloque p{
+    margin: 0;
+    font-size: 100px;
+    color: white;
+}

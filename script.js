@@ -1,24 +1,24 @@
-import { data, data2 } from './data.js'
-const content = document.getElementById('content')
+// import { data, data2 } from './data.js'
+// const content = document.getElementById('content')
 
-let messageObj = []
-for (let data of data2){
-    messageObj.push({
-        name: data.name,
-        message: data.message
-    })
-}
+// let messageObj = []
+// for (let data of data2){
+//     messageObj.push({
+//         name: data.name,
+//         message: data.message
+//     })
+// }
 
-let html = ""
-function display(arr){
-    for (let i = 0; i < arr.length; i++){
-        html += `<p>${arr[i].name}: ${arr[i].message}</p>`
-    }
-}
+// let html = ""
+// function display(arr){
+//     for (let i = 0; i < arr.length; i++){
+//         html += `<p>${arr[i].name}: ${arr[i].message}</p>`
+//     }
+// }
 
-display(messageObj)
+// display(messageObj)
 
-content.innerHTML = html
+// content.innerHTML = html
 
 
 
