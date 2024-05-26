@@ -7,9 +7,17 @@ body{
     background: red;
 }
 .bloque p:first-child{
-    margin: 0;
     font-size: 100px;
 }
 p{
+    margin: 0;
     color: white;
+}
+.bloque2{
+    width: 200px;
+    height: 200px;
+    background: black;
+}
+.bloque2 p:first-child{
+    font-size: 30px;
 }
