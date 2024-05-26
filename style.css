@@ -3,7 +3,7 @@ body{
 }
 .bloque{
     width: 360px;
-    height: 670px;
+    height: 672px;
     background: red;
 }
 .bloque p:first-child{
@@ -31,6 +31,6 @@ p{
 }
 /* 
 me gusta 30 pixeles en este celular
-de width creo que 360 es lo que da pero no estoy seguro
+de width es 360 
 de height creo que 700 px talvez
 */
