@@ -2,6 +2,7 @@ body{
     margin: 0;
     color: white;
     text-align: center;
+    background: rgb(138, 2, 2);
 }
 .bloque{
     width: 360px;
@@ -59,6 +60,16 @@ p{
 }
 .forty{
     font-size: 40px;
+}
+.square{
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
+.square2{
+    width: 200px;
+    height: 200px;
+    background: blue;
 }
 /* 
 me gusta 30 pixeles en este celular
