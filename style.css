@@ -62,11 +62,13 @@ p{
     font-size: 40px;
 }
 .square{
+    margin: 0 auto;
     width: 100px;
     height: 100px;
     background: blue;
 }
 .square2{
+    margin: 0 auto;
     width: 200px;
     height: 200px;
     background: blue;
