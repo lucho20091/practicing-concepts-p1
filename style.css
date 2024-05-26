@@ -3,7 +3,7 @@ body{
 }
 .bloque{
     width: 360px;
-    height: 650px;
+    height: 670px;
     background: red;
 }
 .bloque p:first-child{
@@ -13,14 +13,14 @@ p{
     margin: 0;
     color: white;
 }
-/* .bloque2{
-    width: 200px;
-    height: 150px;
-    background: black;
+.bloque2{
+    width: 361px;
+    height: 100px;
+    background: blue;
 }
 .bloque2 p:first-child{
     font-size: 30px;
-} */
+}
 .bloque3{
     width: 359px;
     height: 100px;
